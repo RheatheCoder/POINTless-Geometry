@@ -1,0 +1,15 @@
+body {
+    background-color: powderblue;
+    font-family: 'Josefin Sans', sans-serif;
+}
+label{
+    color: white;
+}
+hr{
+    color: white;
+    width: 600px;
+    height: 10px;
+}
+h2{
+    color: white;
+}
